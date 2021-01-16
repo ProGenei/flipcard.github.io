@@ -1,0 +1,17 @@
+
+.grid {
+    display: flex;
+    flex-wrap: wrap;
+    width: 400px;
+    margin: auto ;
+    height: 300px;
+    padding: 22px;
+  }
+
+  body {
+    background-color: #283149;
+    color: #dbedf3;
+    margin: 100px;
+    text-align: center;
+    font-size: 18px;
+  }
